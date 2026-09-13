@@ -1,0 +1,6 @@
+po_number,vendor,po_date,currency,total_amount,status
+PO-1001,Acme Supplies Pvt Ltd,2026-08-25,INR,59000,APPROVED
+PO-1002,TechParts India Pvt Ltd,2026-08-26,INR,100000,APPROVED
+PO-1003,Global Office Solutions,2026-08-27,INR,75000,APPROVED
+PO-1004,Prime Industrial Systems,2026-08-28,INR,125000,APPROVED
+PO-1005,South India Office Mart,2026-08-29,INR,45000,APPROVED 

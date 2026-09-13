@@ -1,0 +1,17 @@
+invoice_rules:
+  amount_tolerance_percent: 2.0
+
+  required_fields:
+    - vendor
+    - invoice_number
+    - invoice_date
+    - total
+
+  duplicate_keys:
+    - vendor
+    - invoice_number
+
+  decisions:
+    approved: "APPROVED"
+    pending_review: "PENDING REVIEW"
+    rejected: "REJECTED" 
