@@ -19,7 +19,7 @@ The system is designed to reduce manual Accounts Payable processing while keepin
 
 ### Invoice Upload
 
-<!-- 📸 SCREENSHOT 1: Add your real InvoiceIQ upload-screen screenshot here -->
+![InvoiceIQ Upload Screen](screenshots/upload-screen.png)
 
 The Streamlit interface allows users to upload an invoice PDF and start the automated processing workflow.
 
