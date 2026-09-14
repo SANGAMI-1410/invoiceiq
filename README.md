@@ -4,6 +4,8 @@ An automated Finance/AP workflow that extracts invoice data, validates it agains
 
 **Decision Outcomes:** 🟢 APPROVED · 🟡 PENDING REVIEW · 🔴 REJECTED
 
+[🚀 Live Demo — Try InvoiceIQ](https://invoiceiq-l7zpq4rf4ofmbjjn7b6thc.streamlit.app)
+
 ---
 
 ## 🚀 Project Overview
