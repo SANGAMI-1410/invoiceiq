@@ -25,7 +25,7 @@ The Streamlit interface allows users to upload an invoice PDF and start the auto
 
 ### Approved Invoice
 
-<!-- 📸 SCREENSHOT 2: Add your real APPROVED result screenshot here -->
+![Approved Invoice](screenshots/approved-invoice.png)
 
 A valid invoice that passes the required validation, PO matching, duplicate, vendor, currency, and amount checks is automatically approved.
 
