@@ -31,13 +31,13 @@ A valid invoice that passes the required validation, PO matching, duplicate, ven
 
 ### Pending Review
 
-<!-- 📸 SCREENSHOT 3: Add your real PENDING REVIEW result screenshot here -->
+![Pending Review Invoice](screenshots/pending-review.png)
 
 Invoices requiring human attention, such as amount mismatches outside the configured tolerance or missing PO information, are routed to review.
 
 ### Rejected Invoice
 
-<!-- 📸 SCREENSHOT 4: Add your real REJECTED result screenshot here -->
+![Rejected Invoice](screenshots/rejected-invoice.png)
 
 Invoices with conditions such as duplicate processing or vendor mismatch are rejected with an explanation.
 ---
