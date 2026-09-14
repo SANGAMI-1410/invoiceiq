@@ -142,6 +142,7 @@ invoiceiq/
 │
 ├── app.py
 ├── requirements.txt
+├── packages.txt
 ├── README.md
 ├── .env.example
 ├── .gitignore
