@@ -42,6 +42,11 @@ Invoices requiring human attention, such as amount mismatches outside the config
 ![Rejected Invoice](screenshots/rejected-invoice.png)
 
 Invoices with conditions such as duplicate processing or vendor mismatch are rejected with an explanation.
+
+### Processing History
+
+![Processing History](screenshots/processing-history.png) 
+
 ---
 
 ## 🎯 The Problem This Solves
