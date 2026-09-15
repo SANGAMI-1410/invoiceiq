@@ -119,7 +119,6 @@ These activities can become repetitive, time-consuming, and error-prone as invoi
                     ┌─────────────────────┐
                     │ Explanation & UI    │
                     └─────────────────────┘
----
 
 ## 🛠️ Tech Stack
 
